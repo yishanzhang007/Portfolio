@@ -1,0 +1,97 @@
+@font-face {
+    font-family: "new-spirit";
+    src: url("../fonts/NewSpirit-Regular.woff");
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: "space-grotesque";
+    src: url("../fonts/SpaceGrotesk-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: "space-grotesque";
+    src: url("../fonts/SpaceGrotesk-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: "space-grotesque";
+    src: url("../fonts/SpaceGrotesk-SemiBold.ttf");
+    font-weight: 600;
+}
+
+@font-face{
+    font-family: "space-grotesque";
+    src: url("../fonts/SpaceGrotesk-Bold.ttf");
+    font-weight: 700;
+}
+
+$font-sans: "space-grotesque", Sans-Serif;
+$font-display: "new-spirit", Serif;
+
+
+html {
+    font-size: 62.5%;
+    &::selection{
+        background-color:$color-accent;
+    }
+}
+
+body {
+    color: $color-primary;
+    font-size: 1.8rem;
+    line-height: 1.6;
+    font-family: $font-sans;
+    &::selection{
+        background-color:$color-accent;
+    }
+}
+
+h1{ //big title
+    font-size: 8.0rem;
+    line-height: 9.6rem;
+    font-family: $font-display;
+}
+
+h2{ //small title
+    font-size: 4.8rem;
+    font-family: $font-display;
+}
+h3{ //tag
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+h4{ //caption
+    font-size: 1.6rem;
+    font-weight: 500;  
+}
+
+p, ul, ol{
+    margin-bottom: 12px;
+    line-height: 2.6rem;
+    a{
+        transition: $speed-fast;
+    }
+}
+
+ol,ul{
+    padding: auto;
+}
+
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+button{
+    font-size: 1.8rem;
+    font-family: $font-sans;
+    border: 0px;
+    cursor: pointer;
+    transition: $speed-fast;
+    
+}
