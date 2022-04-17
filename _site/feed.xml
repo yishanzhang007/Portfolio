@@ -1,1 +1,244 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-12T22:14:37-07:00</updated><id>/feed.xml</id><entry><title type="html">Gimbowl</title><link href="/2022/04/08/gimbowl.html" rel="alternate" type="text/html" title="Gimbowl" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>/2022/04/08/gimbowl</id><content type="html" xml:base="/2022/04/08/gimbowl.html">&lt;p&gt;Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.&lt;/p&gt;</content><author><name>Yishan</name></author><summary type="html">Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.</summary></entry><entry><title type="html">Train</title><link href="/2022/04/08/train.html" rel="alternate" type="text/html" title="Train" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>/2022/04/08/train</id><content type="html" xml:base="/2022/04/08/train.html">&lt;p&gt;Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.&lt;/p&gt;</content><author><name>Yishan</name></author><summary type="html">Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.</summary></entry><entry><title type="html">Solend</title><link href="/2022/04/08/solend.html" rel="alternate" type="text/html" title="Solend" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>/2022/04/08/solend</id><content type="html" xml:base="/2022/04/08/solend.html">&lt;p&gt;Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.&lt;/p&gt;</content><author><name>Yishan</name></author><summary type="html">Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-16T22:15:43-07:00</updated><id>/feed.xml</id><entry><title type="html">Gimbowl</title><link href="/2022/04/08/gimbowl.html" rel="alternate" type="text/html" title="Gimbowl" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>/2022/04/08/gimbowl</id><content type="html" xml:base="/2022/04/08/gimbowl.html">&lt;p&gt;Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.&lt;/p&gt;</content><author><name>Yishan</name></author><summary type="html">Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.</summary></entry><entry><title type="html">Train</title><link href="/2022/04/08/train.html" rel="alternate" type="text/html" title="Train" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>/2022/04/08/train</id><content type="html" xml:base="/2022/04/08/train.html">&lt;div class=&quot;side-title&quot;&gt; 00.  OVERVIEW &lt;/div&gt;
+
+&lt;h3 id=&quot;i-designed-a-mobile-app-that-allows-investors-to-track-investment-across-multiple-platforms-and-make-better-investment-decisions&quot;&gt;I designed a mobile app that allows investors to track investment across multiple platforms and make better investment decisions.&lt;/h3&gt;
+
+&lt;p&gt;I made a mobile App mock-up and prototyping using Figma. Users can use the App to track their investment performance within one App instead of switching between different platforms.&lt;/p&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 01.  BACKGROUND &lt;/div&gt;
+
+&lt;h3 id=&quot;what-can-i-do-to-help-investors-save-time-and-better-track-their-investments-on-different-platforms&quot;&gt;What can I do to help investors save time and better track their investments on different platforms?&lt;/h3&gt;
+
+&lt;p&gt;Investment has never been this easy and this hard. Individual investors have so many different investment platforms to trade various assets, as a result, if they want to compare their investment performances, they need to switch between different platforms.&lt;/p&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 02.  DEFINING &lt;/div&gt;
+
+&lt;h3 id=&quot;feature-prioritization&quot;&gt;Feature prioritization&lt;/h3&gt;
+
+&lt;p&gt;From user testing and informal interview with people, I identified key features I want to incorporate into the App, and some backup features to be included as the next step.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/trainCase01.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 03.  ITERATIONS &lt;/div&gt;
+
+&lt;h3 id=&quot;early-sketches&quot;&gt;Early sketches&lt;/h3&gt;
+
+&lt;p&gt;Once I identified the key features, I sketched key screens,  including connecting accounts, viewing investments, comparing assets, and analytical data.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/trainCase02.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;usertesting&quot;&gt;Usertesting&lt;/h3&gt;
+
+&lt;p&gt;I had some friends test out the paper sketch and see if anything was unclear and took notes of their reactions while they tried the sketch. I identified a couple of problems with the current sketch.&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-working-&quot;&gt;What’s working? 👍&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Sign in screen and connect account screen look familiar to the user&lt;/li&gt;
+  &lt;li&gt;Testers can understand what the analysis screen does&lt;/li&gt;
+  &lt;li&gt;Compare screen is straightforward and clear&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;whats-not-working-&quot;&gt;What’s not working? 👎&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Testers are confused about the change view tab on the home screen&lt;/li&gt;
+  &lt;li&gt;Testers are unsure about the difference between browse and analysis&lt;/li&gt;
+  &lt;li&gt;Testers pointed out the button to change the time frame on the analysis screen seems to be repetitive as the sliding bar&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 04.  IDENTITY &lt;/div&gt;
+
+&lt;h3 id=&quot;ui-elements&quot;&gt;UI Elements&lt;/h3&gt;
+
+&lt;p&gt;I designed typography, components, and UI elements to be consistent across different screens.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/trainCase03.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 05.  IDENTITY &lt;/div&gt;
+
+&lt;h3 id=&quot;ui-design-and-prototyping&quot;&gt;UI Design and Prototyping&lt;/h3&gt;
+
+&lt;p&gt;After I redesigned the screen for all four key screens and did prototyping and user testing to make sure the design and interactions make sense.&lt;/p&gt;
+
+&lt;div class=&quot;mobile-video&quot;&gt;
+  &lt;figure&gt;
+      &lt;img src=&quot;/assets/img/trainCase04.jpg&quot; /&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;mobile-video-description&quot;&gt;
+      &lt;h4&gt;Onboarding&lt;/h4&gt;
+      &lt;p&gt;I try to make the on boarding experience easy and user friendly for the new users. They can follow the step by step guidance and easily create account and connect investment account they have.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile-video&quot;&gt;
+  &lt;figure&gt;
+      &lt;img src=&quot;/assets/img/trainCase05.jpg&quot; /&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;mobile-video-description&quot;&gt;
+      &lt;h4&gt;Combined and individual investment&lt;/h4&gt;
+      &lt;p&gt;Combined Investment and time tab
+        Once users connect their investment accounts, they will see their combined investment performance over a different period, and they can easily switch the time frame.
+        
+        Categoriezed assets card
+        Below the combined investment chart, users can see their assets categorized into different cards based on the type. The category with the most money will appear on the top, and when users switch time frames, they will see other cards appear on the top.
+        
+        List of individual assets
+        Users can also expand the card and see a detailed list of assets in each category.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile-video&quot;&gt;
+  &lt;figure&gt;
+      &lt;img src=&quot;/assets/img/trainCase06.jpg&quot; /&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;mobile-video-description&quot;&gt;
+      &lt;h4&gt;Analytical Data&lt;/h4&gt;
+      &lt;p&gt;See top gainers and losers
+        See top gainers and losers in all of your assets within a different time frame.
+        
+        See portfolio composition
+        A pie chart shows each category&apos;s portfolio composition and breaks each type into different sectors.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mobile-video&quot;&gt;
+  &lt;figure&gt;
+      &lt;img src=&quot;/assets/img/trainCase06.jpg&quot; /&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;mobile-video-description&quot;&gt;
+      &lt;h4&gt;Compare Investment&lt;/h4&gt;
+      &lt;p&gt;Select individual assets and compare their performance within the selected time frame.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 06.  REFLECTION &lt;/div&gt;
+
+&lt;h3 id=&quot;what-would-i-have-done-differently&quot;&gt;What would I have done differently?&lt;/h3&gt;
+
+&lt;p&gt;I had a lot of fun designing a product that solved a problem I’m constantly having, but I wish I started thinking about the direction I was going after talking to more people and did more user research.  I might have pivoted my direction, who knows?&lt;/p&gt;
+
+&lt;p&gt;Some of the UI elements I designed looked good to me back then, but now my design skill is sharpened I would have made different design decisions.&lt;/p&gt;
+
+&lt;h3 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h3&gt;
+
+&lt;p&gt;I want to go back and revisit the design and finesse some UI elements, and publish this App.&lt;/p&gt;</content><author><name>Yishan</name></author><summary type="html">00. OVERVIEW</summary></entry><entry><title type="html">Solend</title><link href="/2022/04/08/solend.html" rel="alternate" type="text/html" title="Solend" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>/2022/04/08/solend</id><content type="html" xml:base="/2022/04/08/solend.html">&lt;div class=&quot;side-title&quot;&gt; 00.  BACKGROUND &lt;/div&gt;
+
+&lt;h3 id=&quot;solend-is-a-fast-growing-decentralized-lending-platform-with-a-total-supply-of-126b-since-first-established-in-2021&quot;&gt;Solend is a fast-growing decentralized lending platform with a total supply of $1.26B since first established in 2021.&lt;/h3&gt;
+
+&lt;p&gt;The number of available assets to trade on the platform is growing fast.&lt;/p&gt;
+
+&lt;p&gt;The current website has all the assets displayed as one list, but the fast-growing number of assets added to the platform regularly made it hard for users to find and navigate through the list of assets.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/solendCase01.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 01.  GOALS &lt;/div&gt;
+
+&lt;h3 id=&quot;design-and-implement-pool-feature-to-the-current-website&quot;&gt;Design and implement pool feature to the current website&lt;/h3&gt;
+
+&lt;p&gt;Maintain the current website information architecture&lt;/p&gt;
+
+&lt;p&gt;Display pools available to trade clearly&lt;/p&gt;
+
+&lt;p&gt;Shows information of assets in each pool&lt;/p&gt;
+
+&lt;p&gt;Design for future growth - easy to add more pools and assets to the website.&lt;/p&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 02.  ITERATIONS &lt;/div&gt;
+
+&lt;h3 id=&quot;option-1---seperate-pool-page&quot;&gt;Option 1 - Seperate Pool Page&lt;/h3&gt;
+
+&lt;p&gt;I added a pool button to the top navigation bar for the first option, and the pool features became their separate page. Once users click on the button, they will be led to an individual pool page with an overview of the pool and a  list of different assets in that pool.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/solendCase02.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;whats-working-&quot;&gt;What’s working? 👍&lt;/h4&gt;
+
+&lt;p&gt;This option uses space efficiently. The added pool feature won’t take up more space on the page, and more assets can be displayed at once. It also automatically leads the user to the pool Solend wants to promote.&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-not-working-&quot;&gt;What’s not working? 👎&lt;/h4&gt;
+
+&lt;p&gt;Adding more pools to the website can be challenging. This option works well for a few pools, and if the platform further expands and has more pools added, there won’t be enough space in the top navigation bar to display all the pools, and users might have a hard time finding the pool they want to access.&lt;/p&gt;
+
+&lt;h4 id=&quot;conclusion-&quot;&gt;Conclusion ❌&lt;/h4&gt;
+&lt;p&gt;Even though this option uses space efficiently and works well for currently available pools, it is difficult for the company to add more pools in the future, which seems to be a significant constraint.&lt;/p&gt;
+
+&lt;p&gt;Since the company is growing fast, one of the goals I’m trying to accomplish is to make sure my design fits with its projected growth and make it easier for them to add more pools in the future if needed.&lt;/p&gt;
+
+&lt;h3 id=&quot;option-2---drop-down-menu&quot;&gt;Option 2 - Drop Down Menu&lt;/h3&gt;
+&lt;p&gt;The page automatically leads the user to the default Solend pool for this option. A drop-down menu on the default pool button lists all the other pools and basic information about each pool.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/solendCase03.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;whats-working--1&quot;&gt;What’s working? 👍&lt;/h4&gt;
+
+&lt;p&gt;It contains more information about each pool. Users will see more statistics of each pool when they click on the drop-down menu. It also uses space efficiently, allowing users to see more assets at once.&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-not-working--1&quot;&gt;What’s not working? 👎&lt;/h4&gt;
+
+&lt;p&gt;Users only see one pool unless they use the drop-down menu. Once click on the drop-down menu, it also blocks a significant portion of the page, especially if more pools are added to the website in the future.&lt;/p&gt;
+
+&lt;h4 id=&quot;conclusion--1&quot;&gt;Conclusion ❌&lt;/h4&gt;
+
+&lt;p&gt;Even though this option shows users more information on each pool, I don’t particularly like it since the drop-down menu can become quite bulky if there are multiple pools. And also, the fact that it doesn’t show all pools available can be confusing since users might not realize there are pools besides the default Solend pool.&lt;/p&gt;
+
+&lt;p&gt;I don’t think this is the strongest option for those two reasons.&lt;/p&gt;
+
+&lt;h3 id=&quot;option-3---pool-tab&quot;&gt;Option 3 - Pool Tab&lt;/h3&gt;
+
+&lt;p&gt;I kept the navigation bar and market overview for this option and added different pool tabs underneath them. Users can switch between different tabs to access various tools, and they will also see the statistic of each pool. When users hover over the tab, it will also show information, including the pool’s assets and the overall supply and borrow.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/solendCase04.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;whats-working--2&quot;&gt;What’s working? 👍&lt;/h4&gt;
+
+&lt;p&gt;Allows users to see all the pools. They can easily switch between different pools. It can also accommodate any future pools Solend might want to add. Users can also have an overview of the pool when hovering.&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-not-working--2&quot;&gt;What’s not working? 👎&lt;/h4&gt;
+
+&lt;p&gt;This option uses up more space at the top. The page will display fewer assets.&lt;/p&gt;
+
+&lt;h4 id=&quot;conclusion--2&quot;&gt;Conclusion ✅&lt;/h4&gt;
+
+&lt;p&gt;It maintains the basic architecture of the website without the need to make significant changes. It can also satisfy the company’s future growth needs since one of the benefits of this option is how easily it can add more pools to the tab. It also has the benefits of the above two options - it allows users to see all the pools available clearly and readily switch between different pools and shows some basic statistics of each pool.&lt;/p&gt;
+
+&lt;p&gt;The only drawback of this option is that it doesn’t use the space on the top of the page efficiently. For the next step, I want to explore ways to lay out the elements, so the pool tabs don’t take up too much unnecessary space.&lt;/p&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 03. DESIGN &lt;/div&gt;
+
+&lt;h3 id=&quot;all-pools-page&quot;&gt;All pools page&lt;/h3&gt;
+
+&lt;p&gt;While talking to the team, we realized the need to have an additional page that lists all the pools available before users get into the pool tabs. This will be helpful as Solend grows and adds more pools. Users can see all the pools with key stats before getting into the pool.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/solendCase05.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;market-stats&quot;&gt;Market stats&lt;/h3&gt;
+
+&lt;p&gt;This page lists all the markets within each pool, and users can easily switch between different pools using the pool tab.&lt;/p&gt;
+
+&lt;p&gt;Users will also see more stats on the market when they hover over.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/solendCase06.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;div class=&quot;side-title&quot;&gt; 04.  IMPACT &lt;/div&gt;
+
+&lt;h3 id=&quot;the-total-assets-supplied-increased-more-than-40-after-the-redesign&quot;&gt;The total assets supplied increased more than 40% after the redesign.&lt;/h3&gt;
+
+&lt;p&gt;After the redesign, the total assets grew from $800M to $1.3B. I am still working closely with the amazing team to design more features. Stay tunned!&lt;/p&gt;
+
+&lt;!-- &lt;a href=&quot;&quot;&gt;&lt;button class=&quot;superbutton&quot;&gt;NEXT PROJECT&lt;/button&gt;&lt;/a&gt; --&gt;</content><author><name>Yishan</name></author><summary type="html">00. BACKGROUND</summary></entry></feed>

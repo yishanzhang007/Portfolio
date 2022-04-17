@@ -1,13 +1,22 @@
-html{
+.background{
     display: flex;
     justify-content: center;
+}
+
+.bg-post{
+    background-color: $color-neutral;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.bg-index{
     background-color: $color-wash;
 }
 
-body{
+.bg-inner{
     margin: 0 24px;
     max-width: $size-body;
 }
+
 
 img{
     border-radius: $radius-large;
@@ -20,10 +29,10 @@ nav{
     text-transform: uppercase;
     .nav-items{
         display: flex;
-        h3{
+        h5{
             margin-right: 24px;
         }
-        h3:last-child{
+        h5:last-child{
             margin-right:0px
         }
     }
@@ -138,7 +147,7 @@ nav{
         max-width: 100%;
     }
     h2{margin: 24px 0px 8px 0px;}
-    h3{margin-bottom: 20px;}
+    h5{margin-bottom: 20px;}
     .arch-description{
         max-width: 70%;
     }
@@ -150,7 +159,90 @@ footer{
     margin-bottom: 80px;
     display: flex;
     justify-content: flex-end;
-    h3{
+    h5{
         margin-left: 24px;
+    }
+}
+
+.bg-post{
+    p, h3, h4, h5 {
+        color: $color-primary-neutral;
+    }
+
+    p, h3, h4{
+        max-width: 780px;
+        margin: 0px auto;
+    } 
+    h3{
+        margin-bottom: 16px;
+        margin-top: 48px;
+    }
+    h4{
+        margin-top: 32px;
+        margin-bottom: 16px;
+    }
+
+    p{
+        margin-bottom: 8px;
+    }
+    .side-title{
+        color: $color-secondary-neutral;
+        position: relative;
+        top: 88px;
+    }
+    .post-title{
+        margin-bottom: 40px;
+        margin-top: 80px;
+    }
+    
+    .post {
+        img{
+            width: 100vw;
+            position: relative;
+            left: calc((100vw - 1260px) / -2);
+            margin: 32px 0px 16px 0px;
+        }
+    }
+    img{
+        border-radius: 0px;
+    } 
+
+
+    .superbutton{
+        position: static;
+    }
+    .post-header{
+        display: flex;
+        justify-content: space-between;
+        .header-image{
+            width: 1020px;
+            img{
+                margin: 0px;
+                width: 100%;
+            }
+        }
+    }
+    .metadataItem{
+        margin-bottom: 40px;
+        p{
+            color: $color-secondary-neutral;
+        }
+    }
+
+    .mobile-video{
+        margin: 120px 0px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        .mobile-video-description{
+            max-width: 400px;
+        }
+        figure{
+            max-width: 360px;
+        }
+        img{
+            width: 100%;
+            position: static;
+        }
     }
 }
